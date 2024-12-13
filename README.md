@@ -26,8 +26,6 @@ Watch the demo [here](https://youtu.be/_rHH_r8vPxU).
 
 ## ✨ Features & Implementation Guide
 
-For a comprehensive overview of the implementation, check out the [Implementation Guide](https://docs.google.com/document/d/1BRCRPmDuuuDzebZkeF0TLpaTjq9ol43PZTYCPOjqQsE/edit?usp=sharing).
-
 ### Key Optimizations:
 - **Graph Validation:** Efficient checks for edge compatibility and connectivity with O(N + E) complexity.
 - **BFS Execution:** Utilizes a priority queue for efficient node processing in alphabetical order.
@@ -100,6 +98,6 @@ For a comprehensive overview of the implementation, check out the [Implementatio
 
 ---
 
-Thank you for checking out the **DAG FlowNet**! For any questions or suggestions, feel free to reach out at anniegirdhar08@gmail.com. Happy coding! 🌟
+Thank you for checking out the **DAG FlowNet**! For any questions or suggestions, feel free to reach out. Happy coding! 🌟
 
 ---
