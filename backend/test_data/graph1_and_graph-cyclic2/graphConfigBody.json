@@ -1,0 +1,38 @@
+{
+    "root_inputs": {
+        "A": {
+            "node_id": "A",
+            "data_in": {
+                "input": 10
+            }
+        }
+    },
+    "data_overwrites": {
+        "B": {
+            "node_id": "B",
+            "data_in": {
+                "overwrite_input": 30 
+            }
+        },
+        "C": {
+            "node_id": "C",
+            "data_in": {
+                "overwrite_input": 25 
+            }
+        },
+        "F": {
+            "node_id": "F",
+            "data_in": {
+                "overwrite_input": 23 
+            }
+        }
+
+    },
+    "enable_list": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+    ]
+}

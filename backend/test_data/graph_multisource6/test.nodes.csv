@@ -1,0 +1,7 @@
+_id,node_id,paths_out[0],paths_out[1],__v,data_in.inC,paths_in[0],data_in.input,data_out.output
+6724a6b1fbe74a8419cc4bea,A,6724a6eefbe74a8419cc4bee,,0,,,,
+6724a6d3fbe74a8419cc4bec,B,6727f6628a8d3176fb3fccf3,6724a6eefbe74a8419cc4bee,0,,,,
+6724a6eefbe74a8419cc4bee,C,6727f67f8a8d3176fb3fccf5,,0,0,6724a6b1fbe74a8419cc4bea,,
+6727f6628a8d3176fb3fccf3,D,6727f6cf8a8d3176fb3fccf7,,0,,6724a6d3fbe74a8419cc4bec,15,20
+6727f67f8a8d3176fb3fccf5,E,,,0,,6724a6eefbe74a8419cc4bee,17,
+6727f6cf8a8d3176fb3fccf7,F,,,0,,6727f6628a8d3176fb3fccf3,,
